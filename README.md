@@ -1,2 +1,6 @@
 #Git teach tutoial
-- feature-A
+
+ - feature-A
+
+ - fix-B
+
